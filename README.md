@@ -1,7 +1,7 @@
 # challenge-3-pass-gen
 
 ## Purpose
-A website
+An application to create a new a secure password when prompted.
 
 ## Built With
 * HTML
