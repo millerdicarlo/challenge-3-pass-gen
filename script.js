@@ -78,6 +78,7 @@ function generatePassword() {
 
 }
 
+// event listener
 var generateBtn = document.querySelector("#generate");
 generateBtn.addEventListener("click", function () {
   var password = generatePassword()
